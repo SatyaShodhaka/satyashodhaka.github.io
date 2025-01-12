@@ -3,4 +3,4 @@ logo: /assets/img/satya.heic
 #description: Something here
 
 show_downloads: true
-theme: jekyll-theme
+theme: jekyll-theme-minimal
