@@ -1,11 +1,10 @@
-# Data Scientist
+# Machine Learning/SWE
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education			       		
+- M.S., Computer Science	| University of Massachusetts at Amherst (_May 2025_)	 			        		
+- B.S., Physics | Chaitnya Bharathi Institute of Technology (_May 2021_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
