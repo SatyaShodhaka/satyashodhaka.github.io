@@ -4,7 +4,7 @@
 
 ## Education			       		
 - M.S., Computer Science	| University of Massachusetts at Amherst (_May 2025_)	 			        		
-- B.S., Physics | Chaitnya Bharathi Institute of Technology (_May 2021_)
+- B.E., Information Technology | Chaitnya Bharathi Institute of Technology (_May 2021_)
 
 ## Work Experience
 **Graduate Student Researcher @ Dynamic and Autonomous Robotics Lab (_May 2024 - Present_)**
